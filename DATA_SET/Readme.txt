@@ -1,0 +1,1 @@
+The datasets are compressed to 32x32pixels
