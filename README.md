@@ -11,3 +11,5 @@ The project is an implementation on the paper :
       }
 
 This paper gives a method to make computer vision to see Kanizsa illusion. The method used is Predictive Coding Feedback network that was proposed by Rao and Ballard. Please read the provided Report to understand the implementation. For a more in-depth understanding refer to "The philosophy and science of illusion" file present in the same repository to explore more on this problem statement. 
+
+NOTE: At the time of soing this project the code for the model proposed by the paper we are referring was not released yet, and still is not released (at the time of uploding this project) , The code built is completely built by the author of this directory, Sagar B Dollin using some refrences like : https://youtu.be/JoR5HCs0n0s and https://youtu.be/7HPwo4wnJeA etc.
