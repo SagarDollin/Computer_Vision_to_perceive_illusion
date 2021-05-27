@@ -10,4 +10,4 @@ The project is an implementation on the paper :
       primaryClass={cs.CV}
       }
 
-This paper gives a method to make computer vision to see Kanizsa illusion. The method used is Predictive Coding Feedback network that was proposed by Rao and Ballard. Please read the provided report to understand the implementation. 
+This paper gives a method to make computer vision to see Kanizsa illusion. The method used is Predictive Coding Feedback network that was proposed by Rao and Ballard. Please read the provided Report to understand the implementation. For a more in-depth understanding refer to "The philosophy and science of illusion" file present in the same repository to explore more on this problem statement. 
